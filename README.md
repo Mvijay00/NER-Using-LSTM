@@ -1,1 +1,4 @@
 # NER-Using-LSTM
+register no: 212225100058
+
+Name: VIJAYARAGHAVAN M
